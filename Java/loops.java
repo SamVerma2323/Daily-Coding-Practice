@@ -39,10 +39,39 @@ public class loops{
         // }
         // System.out.println(sum);
 
-        //// Print the table of number input by the user. ////
+//// Printing 0 to 10 ////
+        // for(int i=0;i<=10;i++){
+        //     System.out.println(i);
+        // }
+
+        // int i = 0;
+        // while(i<11){
+        //     System.out.println(i);
+        //     i++;
+        // }
+
+
+        // int i = 0;
+        // do{
+        //     System.out.println(i);
+        //     i++;
+        // } while(i<=10);
+
+
+        ///// Sum of n natural numbers /////
+
+        // int sum=0;
+        // for(int i=0;i<=n;i++){
+        //     sum+=i;
+        // }
+        // System.out.println(sum);
+
+
+//// Printing table of a number ////
 
         for(int i=1;i<=10;i++){
-            System.out.println(i*n);
+            System.out.println(n*i);
         }
+
     }
 }
