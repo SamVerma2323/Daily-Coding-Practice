@@ -27,6 +27,6 @@ public class Hashing {
 
         // Fetch //
         System.out.println(hash[num]);
-        }
+        } 
      }
 }
